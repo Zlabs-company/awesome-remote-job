@@ -186,6 +186,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   1. [We Love Go](https://www.welovegolang.com/) Find Go jobs and Go people all around the world - Click on "Remote Go jobs" link. #golang
   1. [We Work Remotely](https://weworkremotely.com/)
   1. [Workana](https://www.workana.com/) Freelance Job Board in Spanish and Portuguese
+  1. [Codefreela](https://www.codefreela.com/) Freelance Job Board in Portuguese
   1. [Working Nomads](https://www.workingnomads.co/jobs)
 
 ## Job boards aggregators
